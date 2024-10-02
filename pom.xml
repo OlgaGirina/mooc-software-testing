@@ -8,8 +8,6 @@
     <artifactId>testing-mooc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
-
     <dependencies>
 
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine -->
@@ -87,7 +85,6 @@
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
-
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
